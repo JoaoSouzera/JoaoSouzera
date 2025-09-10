@@ -1,5 +1,5 @@
 ## Hi, I'm João Souza 👋
-Student at Instituto JeF. I have more affinity with back-end development and data analysis, but still practicing webdev.
+Student at Instituto JeF. I have more affinity with back-end development (Java) and data analysis (Python), but still practicing webdev (HTML and CSS).
 - Software Analysis and Development student. 👨‍💻
 - Currently learning: Java and SQL.
 - Contact: [Email](mailto:joao.psouza@germinare.org.br) <br>
