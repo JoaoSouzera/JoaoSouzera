@@ -1,6 +1,6 @@
 ## Hi, I'm João Souza 👋
 - Software Analysis and Development student. 👨‍💻
-- Currently learning: Java, SQL.
+- Currently learning: Java and SQL.
 - Contact: [Email](mailto:joao.psouza@germinare.org.br) <br>
 
 
