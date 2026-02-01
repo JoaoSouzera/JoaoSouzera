@@ -1,7 +1,9 @@
 ## Hi, I'm João Souza 👋
-Student at Instituto JeF. I have more affinity with back-end development (Java) and data analysis (Python), but still practicing webdev (HTML and CSS).
-- Software Analysis and Development student. 👨‍💻
-- Currently learning: Java and SQL.
+My name is João Pedro, I'm 16 years old, and I'm having my first experience in the technology field, interning on a Data Platform Engineering team at PicPay. I work in a mixed team of software engineers and data engineers, so I have a lot of contact with back-end development in Python and data processing and solutions with SQL and PySpark. 
+
+This corporate experience complements my studies at the J&F Institute, where I'm pursuing a high school diploma integrated with a technical degree in Systems Development, enriching my technological foundation in other languages ​​and areas of specialization. Currently, I'm focused on further developing my back-end and data skills, as well as deepening my knowledge of frameworks. 
+
+I really enjoy challenges, I'm good at using my logical reasoning to generate solutions, I'm comfortable with numbers, and I love learning about new cultures and languages.
 <br>
 
 ##
